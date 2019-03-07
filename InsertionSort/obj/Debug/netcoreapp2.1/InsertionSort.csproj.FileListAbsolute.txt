@@ -1,0 +1,22 @@
+C:\Users\El Hamdioui\Desktop\School(HR)\InsertionSort\bin\Debug\netcoreapp2.1\InsertionSort.deps.json
+C:\Users\El Hamdioui\Desktop\School(HR)\InsertionSort\bin\Debug\netcoreapp2.1\InsertionSort.runtimeconfig.json
+C:\Users\El Hamdioui\Desktop\School(HR)\InsertionSort\bin\Debug\netcoreapp2.1\InsertionSort.runtimeconfig.dev.json
+C:\Users\El Hamdioui\Desktop\School(HR)\InsertionSort\bin\Debug\netcoreapp2.1\InsertionSort.dll
+C:\Users\El Hamdioui\Desktop\School(HR)\InsertionSort\bin\Debug\netcoreapp2.1\InsertionSort.pdb
+C:\Users\El Hamdioui\Desktop\School(HR)\InsertionSort\obj\Debug\netcoreapp2.1\InsertionSort.csprojAssemblyReference.cache
+C:\Users\El Hamdioui\Desktop\School(HR)\InsertionSort\obj\Debug\netcoreapp2.1\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\El Hamdioui\Desktop\School(HR)\InsertionSort\obj\Debug\netcoreapp2.1\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\El Hamdioui\Desktop\School(HR)\InsertionSort\obj\Debug\netcoreapp2.1\InsertionSort.AssemblyInfo.cs
+C:\Users\El Hamdioui\Desktop\School(HR)\InsertionSort\obj\Debug\netcoreapp2.1\InsertionSort.dll
+C:\Users\El Hamdioui\Desktop\School(HR)\InsertionSort\obj\Debug\netcoreapp2.1\InsertionSort.pdb
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\InsertionSort\obj\Debug\netcoreapp2.1\InsertionSort.csprojAssemblyReference.cache
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\InsertionSort\obj\Debug\netcoreapp2.1\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\InsertionSort\obj\Debug\netcoreapp2.1\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\InsertionSort\obj\Debug\netcoreapp2.1\InsertionSort.AssemblyInfo.cs
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\InsertionSort\obj\Debug\netcoreapp2.1\InsertionSort.dll
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\InsertionSort\obj\Debug\netcoreapp2.1\InsertionSort.pdb
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\InsertionSort\bin\Debug\netcoreapp2.1\InsertionSort.deps.json
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\InsertionSort\bin\Debug\netcoreapp2.1\InsertionSort.runtimeconfig.json
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\InsertionSort\bin\Debug\netcoreapp2.1\InsertionSort.runtimeconfig.dev.json
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\InsertionSort\bin\Debug\netcoreapp2.1\InsertionSort.dll
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\InsertionSort\bin\Debug\netcoreapp2.1\InsertionSort.pdb
